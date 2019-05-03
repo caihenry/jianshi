@@ -11,6 +11,9 @@ A Full-Stack mobile app, including Android side & Server side, Simple-Poem 简�
 
 [下载地址: Fir.im](http://fir.im/vd1r)
 
+# 搭建开发环境
+
+* [简诗App的环境搭建](https://caihenry.github.io/2019/05/02/p18.html)
 
 
 # Technology JianShi used
